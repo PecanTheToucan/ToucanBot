@@ -1,5 +1,6 @@
 # ToucanBot
 Toucan Bot is a Discord bot the the Toucans World SMP Network.
+
 Visit the [Toucans.world Website](https://toucans.world)
 
 ## Bot Usage
